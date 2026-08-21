@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Lyamon4/Lyamon4/main/alimbanner.png" alt="alim 14 the coder" width="100%">
+  <img src="https://raw.githubusercontent.com/Lyamon4/Lyamon4/main/alimbanner.png](https://github.com/user-attachments/assets/d7e510c6-8840-4411-bf36-08abef89338e" alt="ascii fluid" width="100%">
+
 </p>
 
 ### about

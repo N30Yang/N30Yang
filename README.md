@@ -1,91 +1,42 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Lyamon4/Lyamon4/main/alimbanner.png](https://github.com/user-attachments/assets/d7e510c6-8840-4411-bf36-08abef89338e" alt="ascii fluid" width="100%">
-
 </p>
-
 ### about
 14-year-old hack clubber and larper. Intern at Object IT. building stuff and dumb things.
-
 🌐 [neo.tech](https://neoyang.tech/) • ✉️ [neo@neoyang.tech](mailto:neo*neoyang.tech)
-
 ---
-
 ### core skills
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,js,git,arch,bash,discord,linux,linkedin,mint,obsidian&theme=dark" alt="core skills" />
 </p>
-
 - **languages**: Python • Javascript • some html
 - **ml & systems**: Mint • Arch • Windows
 - **databases**: idk cloudflare?
 - **tools & hardware**: Git • Docker • Linux • Apple Silicon 
-
 ---
-
 ### featured projects
-
-#### [Neuralese](https://www.youtube.com/watch?v=218K0ffants)
-**Visual AI Platform** — *Co-Founder & CTO*
-
-A full-stack system for learning and building neural networks without code.
-- GPU optimization through cross-model scheduling
-- Used in real educational settings (raised $12k)
-- Built from visual node interface to deployment
-
-<a href="https://www.youtube.com/watch?v=218K0ffants">
-  <img src="https://img.shields.io/badge/▶_Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube" alt="Demo">
+#### [Horizons Crux Game](https://github.com/N30Yang/Horizons-Crux-Game)
+**Voice-Controlled Godot Game** — *Team of 3, built for Horizons Crux*
+A dying industrial world, one surviving tree, and players who defend it using powers triggered entirely by voice commands (shapeshift, fly, shoot) picked up live and mapped to in-game events.
+- Real-time voice-to-action system built in Godot
+- Handled voice controls & explosion animations
+- Tied to a real cause: comments/plays trigger donations to TeamTrees
+<a href="https://leafy-axolotl-4bf246.netlify.app/">
+  <img src="https://img.shields.io/badge/▶_Play_Now-Netlify-00C7B7?style=for-the-badge&logo=netlify" alt="Play">
 </a>
-
 <br><br>
-
-#### [Arduino Birthday Countdown](https://github.com/Lyamon4/arduino-birthday-countdown)
-**Embedded Midnight Countdown Box & Surprise Actuator** — *Open Source*
-
-Interactive Arduino Nano surprise device with I2C 16x2 LCD countdown, tone melody on passive buzzer, 8-state choreographed LED light show, and 5V relay trigger for external high-power celebration loads.
-
+#### [SO101-TTT](https://github.com/N30Yang/SO101-TTT)
+**Camera-Guided Robot Arm — Tic Tac Toe**
+A robotic arm (SO-ARM101) that plays Tic Tac Toe autonomously, using OpenCV to read the board state from a camera feed and plan its moves.
+- Real-time board detection with OpenCV
+- Autonomous move planning & robotic arm control
+- Full Python-based vision-to-actuation pipeline
 <br>
-
-#### TurboMLX
-**High-Performance LLM & VLM Inference Engine**
-
-LLM inference server optimized for Apple Silicon with tiered SSD/RAM KV caching, continuous batching, and native Swift macOS menu bar manager.
-- Multi-model serving with automatic & manual runtime controls
-- Custom Metal/C++ kernels for accelerated prefill & generation
-- OpenAI & Anthropic drop-in API compatibility with tool calling
-
-<br>
-
-#### CoreTensor
-**C++20 & CUDA Autograd Tensor Library**
-
-Multi-dimensional tensor computation engine from scratch featuring automatic gradient tracking (Autograd), reverse-mode computational graphs, and custom CUDA GPU acceleration.
-
-<br>
-
-#### MemoryLLM
-**Universal Long-Term Memory Engine for AI Agents**
-
-High-performance persistent memory system for LLMs and AI coding agents with vector retrieval, hybrid FTS, autonomous consolidation, and MCP/hook integrations.
-
-<br>
-
-#### ESP32 AdBlock
-**Hardware Flash-Hash DNS Sinkhole**
-
-Pi-hole alternative running on a $2 ESP32 with 140,000+ domains packed into flash hashes, binary-search lookup in 10ms with only 50KB RAM.
-
-<br>
-
-#### Orbit Downloader
-**Modern Full-Featured Download Manager**
-
-Sleek, powerful download manager supporting multi-connection chunking, browser integration, torrent/magnet support, and cross-platform desktop UI.
-
+#### [FridgeAnalyz](https://github.com/N30Yang/FridgeAnalyz)
+**Fridge Contents Analyzer**
+A tool that looks at what's in your fridge and helps you figure out what to do with it.
 ---
-
 ### activity
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=N30Yang&theme=dark&hide_border=true" alt="GitHub Streak" height="150" />
 </p>

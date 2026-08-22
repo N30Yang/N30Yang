@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d7e510c6-8840-4411-bf36-08abef89338e" alt="ascii fluid" width="100%">
 </p>
-
+![](https://komarev.com/ghpvc/?username=N30Yang)
 ### about
 
 14-year-old hack clubber and larper. Intern at Object IT. building stuff and dumb things.
@@ -27,13 +27,12 @@
 
 #### [Liquid Ascii](https://github.com/N30Yang/ascii-fluid)
 
-**Browser-Based ASCII Fluid Simulation** — *made for Hack Club Horizons 2026*
+**Browser-Based ASCII Fluid Simulation**
 
-A real FLIP fluid sim (particles, density ramp, grid physics) rendered entirely in letters instead of pixels — no images anywhere, just brighter fluid mapping to denser characters.
+A real FLIP fluid sim (particles, density ramp, grid physics) rendered entirely in letters instead of pixels, just brighter fluid mapping to denser characters.
 
 - Drag, fling, and shake the "tank"; rain in water or floating oil
 - Tilt-to-pour support on gyro devices
-- Zero frameworks or build step — just `index.html` + `style.css` + `script.js`
 
 <a href="https://www.youtube.com/embed/YwqoILgEVkE">
   <img src="https://img.shields.io/badge/▶_Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube" alt="Demo">
@@ -44,7 +43,7 @@ A real FLIP fluid sim (particles, density ramp, grid physics) rendered entirely 
 
 **Video-to-Chess-Pieces Renderer**
 
-Takes any MP4, converts it to black & white, and rebuilds every frame out of chess.com-style pieces mapped along a black-king → white-king brightness ramp — outputs a real playable video, up to 32K.
+Takes any MP4, converts it to black & white, and rebuilds every frame out of chess.com-style pieces mapped along a black-king → white-king brightness ramp. Outputs a real playable video, up to 32K.
 
 - Automatic codec switching (H.264 up to 8K, ProRes 422 HQ beyond)
 - Configurable resolution, piece color preset, and grid density
@@ -63,7 +62,6 @@ Converts any `.mp4`/`.webm` into a Minecraft datapack + resource pack that plays
 
 - Mono or full-color block rendering, any resolution/plane/origin
 - Custom foreground/background block selection
-- Zero AI used — hand-written Python + datapack generation
 
 <a href="https://www.youtube.com/watch?v=pbrnvtbjSy4">
   <img src="https://img.shields.io/badge/▶_Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube" alt="Demo">

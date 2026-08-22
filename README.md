@@ -19,7 +19,7 @@
 - **languages**: Python • Javascript • some html
 - **ml & systems**: Mint • Arch • Windows
 - **databases**: idk cloudflare?
-- **tools & hardware**: Git • Docker • Linux • Apple Silicon
+- **tools & hardware**: Git • Linux
 
 ---
 

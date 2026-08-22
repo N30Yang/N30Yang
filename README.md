@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=N30Yang)
 ### about
 
-14-year-old hack clubber and larper. Intern at Object IT. building stuff and dumb things.
+14-year-old hack clubber and larper. building stuff and dumb things.
 
 🌐 [neo.tech](https://neoyang.tech/) • ✉️ [neo@neoyang.tech](mailto:neo*neoyang.tech)
 

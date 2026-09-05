@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d7e510c6-8840-4411-bf36-08abef89338e" alt="ascii fluid" width="100%">
 </p>
-![](https://komarev.com/ghpvc/?username=N30Yang)
 ### about
 
 14-year-old hack clubber and larper. building stuff and dumb things.

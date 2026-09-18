@@ -39,7 +39,7 @@ A real FLIP fluid sim (particles, density ramp, grid physics) rendered entirely 
 </a>
 <br><br>
 
-[demo](https://liquid.neoisyang.xyz)
+[demo](https://fluid.neoisyang.xyz)
 
 #### [MP4 to Chess](https://github.com/N30Yang/mp4-2-chess)
 
